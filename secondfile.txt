@@ -1,2 +1,6 @@
 yo second file 
+<<<<<<< HEAD
 commiting using kraumaken
+=======
+commiting using kraprithviken
+>>>>>>> master
