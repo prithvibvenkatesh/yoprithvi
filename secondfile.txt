@@ -33,6 +33,7 @@ cherry3()
 // inprogress
 }
 
+<<<<<<< cherrytest
 cherry4()
 {
 }
@@ -47,4 +48,9 @@ cherry6()
 
 cherry7()
 {
+=======
+cherrymainmaster()
+{
+//
+>>>>>>> mastercherry
 }
