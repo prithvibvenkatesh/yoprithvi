@@ -1,8 +1,13 @@
-yo second file 
-<<<<<<< HEAD
+yo second file
+
 commiting using kraumaken
-=======
+
 commiting using kraprithviken
+<<<<<<< HEAD
 >>>>>>> master
 
 updating the main branch
+=======
+
+commiting the 4th commit for branch merge 
+>>>>>>> thenewbranch

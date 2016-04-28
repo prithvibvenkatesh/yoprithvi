@@ -1,4 +1,9 @@
 hello
 yo kraken yo
+<<<<<<< HEAD
 
 git merge branch commit main2
+=======
+kraken merge3
+yo the branch merge commit2
+>>>>>>> thenewbranch
