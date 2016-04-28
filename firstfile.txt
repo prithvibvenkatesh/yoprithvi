@@ -9,3 +9,9 @@ to find the changes for branching merge concept1
 
 rebase commit 4
 
+source tree2nd commit
+
+source tree stage line 1 
+source tree unstage line 2
+source tree unstage line 3
+source tree stage line 4
