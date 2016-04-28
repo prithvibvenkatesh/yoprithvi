@@ -52,5 +52,14 @@ cherry7()
 cherrymainmaster()
 {
 //
+<<<<<<< cherrytest
 >>>>>>> mastercherry
+=======
+cherry4()
+{
+}
+
+cherry5()
+{
+>>>>>>> yo yo ing
 }
