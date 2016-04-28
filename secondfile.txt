@@ -18,3 +18,7 @@ cherry1()
 {
 // completed
 }
+cherry1.5()
+{
+}
+cherry3()
